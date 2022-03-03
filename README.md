@@ -1,0 +1,2 @@
+# olalink
+olalink global
